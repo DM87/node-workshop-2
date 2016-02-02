@@ -1,0 +1,19 @@
+{
+  "name": "cps",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "cps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DM87/node-workshop-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DM87/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/DM87/node-workshop-2#readme"
+}
