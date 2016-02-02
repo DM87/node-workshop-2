@@ -11,5 +11,6 @@ function lastLetter(sentence, func) {
 function getFirstAndLast(sentence, funct){
     return firstLetter(sentence, funct) + lastLetter(sentence, funct);
 }
+
 getFirstAndLast("hello", function(newStr) { console.log(newStr); }); // should output "ho"
 
